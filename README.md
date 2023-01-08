@@ -1,3 +1,3 @@
 # Satellite-image-analysis
 
-## Supervised and unsupervised algorithm implementation 
+### Supervised and unsupervised algorithm implementation for urban areas and water bodies.
